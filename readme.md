@@ -24,7 +24,7 @@ The personal portfolio webpage project is a responsive page that showcases my sk
 - Responsive Web Design Principles
 
 ## Live Demo
-Each project includes a live demo hosted on CodePen. Click on the links above to view the live demos.
+Each project includes a live demo hosted on CodePen. Click on the links below to view the live demos.
 
 - [Survey Form](https://codepen.io/farhan066/full/mdBBrpB)
 - [Tribute Page](https://codepen.io/farhan066/full/GRMmMvJ)
